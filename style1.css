@@ -1,0 +1,10 @@
+*{
+  margin=0;
+}
+body{
+  font-family:Cursive, Arial,Sans-serif;
+  font-size:18px;
+  width:100%;
+  background-color:#20262e;
+  color:#fff;
+}
