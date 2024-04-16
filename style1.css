@@ -9,3 +9,7 @@ body{
   background-color:#20262e;
   color:#fff;
 }
+p{
+  color:aqua;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
